@@ -1,4 +1,11 @@
 let EDSData = {
+    37: {
+        1: [
+            'Tampines Ave 7',
+            'Upper Changi Rd North',
+            'Changi North St 1'
+        ]
+    },      
     65: {
         2: [
             'Bedok Resevior Rd',
@@ -8,7 +15,16 @@ let EDSData = {
             'Jalan Besar',
             'Orchard Boulevard',
             'Lower Delta Rd'
-        ]
+        ],
+        1: [
+            'Lower Delta Rd',
+            'Orchard Rd',
+            'Selegie Rd',
+            'Serangoon Rd',
+            'Macpherson Rd',
+            'Ubi Ave 2',
+            'Bedok Reservior Rd'
+        ]    
     },
     107: {
         2: [
@@ -24,7 +40,7 @@ let EDSData = {
             'Kallang Bahru',
             'Upper Serangoon Rd',
             'Hougang Ave 10'
-        ]
+        ],
     },
     123: {
         1: [
@@ -65,6 +81,13 @@ let EDSData = {
             'Bt Timah Rd',
             'Jln Jurong Kechil',
             'Bt Batok E. Ave 6, 3'
+        ]
+    },
+    241: {
+        1: [
+            'Jurong West St 63',
+            'Pionner Rd North'
+            'Jurong West St 91'
         ]
     },
     804: {
