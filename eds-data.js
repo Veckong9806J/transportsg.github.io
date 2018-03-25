@@ -1,4 +1,9 @@
 let EDSData = {
+    60A: {
+        1: [
+            'Terminate At',
+            'Bedok Reservoir Rd (Blk 608)'
+        ],
     123: {
         1: [
             'Bukit Purmei Ave',
