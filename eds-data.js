@@ -59,21 +59,6 @@ let EDSData = {
             'Bedok Reservoir Rd'
         ]
     },
-    77: {
-        1: [
-            'Stamford Rd',
-            'Orchard Boulevard',
-            'Holland Rd / Village',
-            'Sixth Ave',
-            'Toh Tuck Rd'
-        ],
-        2: [
-            'Toh Tuck Rd',
-            'Sixth Ave',
-            'Holland Rd / Village',
-            'Orchard Rd'
-        ]
-    },
     89:  {
        2: [
            'Hougang Ave 10',
@@ -346,22 +331,28 @@ let EDSData = {
 };
 
 let SWTs = {
+    '3A': 'Pasir Ris Dr 3;Pasir Ris MRT'
     '7A': 'Orchard Blvd;Bef Orchard Stn Exit B',
     '7B': 'Orchard Rd;Dhoby Ghaut Stn',
     '9A': 'Loyang Ave;Blk 149A',
     '13A': 'Bishan Rd;Bishan Stn',
     '14A': 'Grange Rd;Natl Y. Council',
+    '15A': 'Jalan Eunos;Opp Eunos Stn'
+    '17A': 'Bedok N. Ave 4;SBST Bdk Bus Pk'
     '21A': 'Kitchener Rd;Bef Tai Hoe Hotel',
     '27A': 'Tampines Ave 4;Opp Century Sq',
     '31A': 'New U. Changi Rd;T. Merah Stn',
     '33A': 'Tiong Bahru Rd;Blk 1',
     '33B': 'Joo Chiat Place;Aft Tembeling Rd',
-    '58A': 'Tampines Ave 10;Bef TPE',
     '51A': 'Pandan Gdns;Blk 407',
     '53A': 'Changi Airport;PTB2',
     '55B': 'Ang Mo Kio Ave 10;Blk 443',
+    '58A': 'Tampines Ave 10;Bef TPE',
     '58B': 'Upp Paya Lebar Rd;Aft Tai Seng Stn',
     '60A': 'Bedok Reservior Rd;Blk 608',
+    '62A': 'Aljunied Rd;Aljunied Station'
+    '66A': 'Bukit Timah Rd;Little India Stn'
+    '66B'; 'Serangoon Rd;Tekka Centre'
     '70A': 'Temasek Ave;Op. Ritz Carlton',
     '70B': 'Serangoon Ctrl;S\'goon Stn',
     '72B': 'AMK Ave 5;ITE College Ctrl',
@@ -378,6 +369,9 @@ let SWTs = {
     '135A': 'M.Parade Rd;Victoria Sch',
     '154A': 'Boon Lay Way;Lakeside Stn',
     '154B': 'Clementi Rd;Ngee Ann Poly',
+    '240A': 'Boon Lay Way;Lakeside Stn'
     '241A': 'Jurong W. St 63;Blk 649A',
     '269A': 'Ang Mo Kio St 61;MKT/FC'
+    '502A': 'Ctrl Blvd;Downtown Stn'
+    '518A': 'Bayfront Ave;Opp MBS MICE'
 }
