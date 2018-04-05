@@ -13,16 +13,24 @@ let EDSData = {
             'Tampines Ave 4',
             'Bedok Reservior Rd',
             'Ubi Ave 2',
-            'Upp Paya Lebar Rd',
+            'Upper Paya Lebar Rd',
             'Serangoon Ctrl',
-            'AMK Ave 8'
+            'Ang Mo Kio Ave 8'
+        ],
+        2: [
+            'Ang Mo Kio Ave 8',
+            'Serangoon Ctrl',
+            'Upper Paya Lebar Rd',
+            'Ubi Ave 2',
+            'Bedok Reservior Rd',
+            'Tampines Ave 4'
         ]
     },
     23: {
        1:  [
             'Tampines Ave 1',
             'Bedok North Rd',
-            'Bendemmer Rd',
+            'Bendemeer Rd',
             'Serangoon Rd',
             'Bedok North Rd',
             'Tampines Ave 1'
@@ -108,6 +116,24 @@ let EDSData = {
             'Orchard Rd'
         ]
     },
+    86:  {
+       1: [
+           'Ang Mo Kio Ave 6',
+           'Yio Chu Kang Rd',
+           'Jln Kayu',
+           'Punggol Rd',
+           'Rivervale Dr',
+           'Compassvale Rd'
+       ],
+       2: [
+           'Compassvale Rd',
+           'Rivervale Dr',
+           'Punggol Rd',
+           'Jln Kayu',
+           'Yio Chu Kang Rd',
+           'Ang Mo Kio Ave 6'
+        ]
+    },    
     89:  {
        2: [
            'Hougang Ave 10',
