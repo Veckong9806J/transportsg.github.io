@@ -622,7 +622,7 @@ let EDSData = {
 };
 
 let SWTs = {
-    '3A': 'Pasir Ris Dr 3;Pasir Ris MRT',
+    '3A': 'Pasir Ris Dr 12;Blk 747A',
     '7A': 'Orchard Blvd;Bef Orchard Stn Exit B',
     '7B': 'Orchard Rd;Dhoby Ghaut Stn',
     '9A': 'Loyang Ave;Blk 149A',
