@@ -154,12 +154,12 @@ let dests = {
         loopPoint: ''
     },
     291: {
-        interchanges: ['> TAMPINES INT'],
+        interchanges: [''],
         routeType: 'TOWNLINK',
         loopPoint: 'Tampines St 83&33'
     },
     293: {
-        interchanges: ['> TAMPINES INT'],
+        interchanges: [''],
         routeType: 'TOWNLINK',
         loopPoint: 'Tampines St 71&Ave 7'
     },
