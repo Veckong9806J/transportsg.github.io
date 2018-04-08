@@ -109,19 +109,19 @@ let dests = {
         loopPoint: ''
     },
     81: {
-        interchanges: ['> TAMPINES INT'],
+        interchanges: ['TAMPINES INT - S\'GOON CTRL'],
         routeType: 'TRUNK',
-        loopPoint: 'S\'goon Ctrl'
+        loopPoint: ''
     },
     82: {
-        interchanges: ['> PUNGGOL INT'],
+        interchanges: ['PUNGGOL INT - S\'GOON CTRL'],
         routeType: 'TRUNK',
-        loopPoint: 'S\'goon Ctrl'
+        loopPoint: ''
     },
     83: {
-        interchanges: ['> PUNGGOL INT'],
+        interchanges: ['PUNGGOL INT - SENGKANG SQ'],
         routeType: 'TRUNK',
-        loopPoint: 'Sengkang SQ'
+        loopPoint: ''
     },
     89: {
         interchanges: ['> HOUGANG CENTRAL    ', 'CHANGI AIRFREIGHT CTR'],
