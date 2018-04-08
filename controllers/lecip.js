@@ -128,6 +128,11 @@ let dests = {
         routeType: 'TRUNK',
         loopPoint: ''
     },
+    106: {
+        interchanges: ['> BUKIT BATOK INT', '> SHENTON WAY TER'],
+        routeType: 'TRUNK',
+        loopPoint: ''
+    },
     '107M': {
         interchanges: ['> HOUGANG INT'],
         routeType: 'TRUNK',
@@ -135,6 +140,11 @@ let dests = {
     },
     125: {
         interchanges: ['> SIMS AVE', '> ST MICHAEL\'S TER'],
+        routeType: 'TRUNK',
+        loopPoint: ''
+    },
+    '163M': {
+        interchanges: ['> SENGKANG W. AVE', '> SENGKANG INT'],
         routeType: 'TRUNK',
         loopPoint: ''
     },
