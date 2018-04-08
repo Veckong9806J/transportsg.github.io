@@ -553,7 +553,9 @@ let EDSData = {
     },
     201: {
         1: [
-            'C\'Wealth Ave West'
+            'West Coast Rd',
+            'C\'Wealth Ave West',
+            'Pandan Gdns'
         ]
     },
     228: {
