@@ -68,6 +68,11 @@ let dests = {
         routeType: 'TRUNK',
         loopPoint: ''
     },
+    20: {
+        interchanges: ['> TAMPINES INT'],
+        routeType: 'TRUNK',
+        loopPoint: 'Changi Biz Pk'
+    },
     21: {
         interchanges: ['> ST MICHAEL\'S TER', '> PASIR RIS INT'],
         routeType: 'TRUNK',
@@ -79,7 +84,7 @@ let dests = {
         loopPoint: 'Rochor'
     },
     29: {
-        interchanges: ['>TAMPINES INT'],
+        interchanges: ['> TAMPINES INT'],
         routeType: 'TRUNK',
         loopPoint: 'Changi Village'
     },
@@ -153,8 +158,18 @@ let dests = {
         routeType: 'TRUNK',
         loopPoint: ''
     },
+    161: {
+        interchanges: [' > WOODLANDS INT', '> HOUGANG CTRL INT'],
+        routeType: 'TRUNK',
+        loopPoint: ''
+    },
     '163M': {
         interchanges: ['> SENGKANG W. AVE', '> SENGKANG INT'],
+        routeType: 'TRUNK',
+        loopPoint: ''
+    },
+    168: {
+        interchanges: ['> WOODLANDS INT', '> BEDOK INT'],
         routeType: 'TRUNK',
         loopPoint: ''
     },
