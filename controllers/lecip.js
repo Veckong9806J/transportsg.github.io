@@ -120,7 +120,7 @@ let dests = {
     },
     81: {
         interchanges: ['> TAMPINES INT'],
-        routeType: 'TRUNK',
+        routeType: 'TOWNLINK',
         loopPoint: 'S\'goon Ctrl'
     },
     82: {
